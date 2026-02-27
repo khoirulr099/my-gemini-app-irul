@@ -1,0 +1,5 @@
+{
+  "name": "Gamestore Top-Up",
+  "description": "Top-up game platform with nickname validation and payment gateway integration.",
+  "requestFramePermissions": []
+}
